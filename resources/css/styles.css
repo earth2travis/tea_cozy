@@ -41,6 +41,26 @@ header {
 .logo img {
   height: 50px;
 }
+
 header nav {
   padding-right: 10px;
+}
+
+/* Hero */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  background-image: url("../../resources/images/img-mission-background.jpg");
+  position: relative;
+  top: 69px;
+  width: 1200px;
+  height: 500px;
+}
+
+.mission {
+  background-color: black;
+  width: 1200px;
+  height: 140px;
 }
