@@ -91,3 +91,26 @@ header nav {
   height: 200px;
   margin-bottom: 10px;
 }
+
+/* Locations */
+.locations {
+  background-image: url("../../resources/images/img-locations-background.jpg");
+  width: 1200px;
+  height: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
+  position: relative;
+  top: 125px;
+}
+
+.locationShops {
+  display: flex;
+  justify-content: center;
+}
+
+.shop {
+  background-color: black;
+  width: 300px;
+  margin: 0 20px;
+  opacity: 1;
+}
