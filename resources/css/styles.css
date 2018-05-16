@@ -114,3 +114,10 @@ header nav {
   margin: 0 20px;
   opacity: 1;
 }
+
+/* Contact */
+.contact {
+  position: relative;
+  top: 125px;
+  height: 200px;
+}
