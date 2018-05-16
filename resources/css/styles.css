@@ -6,7 +6,7 @@ body {
   font-size: 22px;
   color: seashell;
   background-color: black;
-  opacity: 0.9;
+  opacity: .9;
   text-align: center;
 }
 
@@ -120,4 +120,13 @@ header nav {
   position: relative;
   top: 125px;
   height: 200px;
+}
+
+/* Foooter */
+footer {
+  position: relative;
+  top: 100px;
+  display: flex;
+  margin-left: 20px;
+  justify-content: flex-start;
 }
