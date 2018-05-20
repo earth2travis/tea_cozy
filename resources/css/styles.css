@@ -116,6 +116,10 @@ header nav {
   opacity: 1;
 }
 
+.shop p {
+  line-height: 2;
+}
+
 /* Contact */
 .contact {
   position: relative;
