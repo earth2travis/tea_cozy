@@ -103,8 +103,9 @@ header nav {
   top: 125px;
 }
 
-.locationShops {
+.shop_locations {
   display: flex;
+  flex-direction: row;
   justify-content: center;
 }
 
